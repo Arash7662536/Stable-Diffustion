@@ -3,6 +3,7 @@
 table Diffusion is a cutting-edge generative artificial intelligence model designed to create high-quality images from textual descriptions. Developed by Stability AI in collaboration with researchers from the CompVis Group at Ludwig Maximilian University of Munich and other partners, it was first released in August 20221.
 
 it's architecture:
+
 ![OIP](https://github.com/user-attachments/assets/b2923db0-c53b-46fc-a056-fbe9913089c8)
 
 
